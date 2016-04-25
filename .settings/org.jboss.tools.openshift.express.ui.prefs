@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=557d72f2e0b8cd1e79000053
+org.jboss.tools.openshift.ApplicationName=moneyforgames
+org.jboss.tools.openshift.Connection=https\://rvougers%40gmail.com@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=maydie
+org.jboss.tools.openshift.RemoteName=origin
